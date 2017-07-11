@@ -1,0 +1,62 @@
+/********************************************
+GENERAL
+*********************************************/
+
+a {
+	text-decoration: none;
+}
+
+
+
+/********************************************
+NAVIGATION
+*********************************************/
+
+nav {
+	text-align: center;
+}
+
+nav ul {
+	list-style: none;
+}
+
+nav li {
+	display: inline;j
+	padding: 0 1em;
+	margin-right: 1em;
+}
+
+nav a:hover {
+	color: #FF8200; /*TN Orange*/
+	background-color: #58595B;
+	font-size: 21px;
+	
+	
+	
+	
+	
+	/********************************************
+COLOR PALLETTE
+*********************************************/
+/* Tennessee Orange
+CMYK 0 50 100 0
+HEX #FF8200
+RGB 255 130 0
+PMS 151
+
+White
+CMYK 0 0 0 0
+HEX FFFFFF
+RGB 255 255 255
+PMS N/A
+
+Smokey
+CMYK 0 0 0 80
+HEX #58595B
+RGB 88 89 91
+PMS COOL GRAY 11 */
+
+
+}
+
+
